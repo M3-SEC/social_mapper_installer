@@ -1,5 +1,5 @@
 # social_mapper installer
-Auto installs Social Mapper for you. (Just for Kali Linux!
+Auto installs Social Mapper for you. (Just for Kali Linux!)
 
 # Installation
 ```
